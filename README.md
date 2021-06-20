@@ -25,8 +25,10 @@
 
 ## 크롤링 플랫폼    
   (1) 구글 맵 리뷰 : [selenium, BeautifulSoup](https://github.com/JeongCheck/Crawling/blob/main/googleMapReview%20.ipynb)     
-  (2) 네이버 블로그 : [네이버 검색 API](), [selenium](), [BeautifulSoup]()
-
+    - 참고 : http://egloos.zum.com/mcchae/v/11281390, \[김경록서영덕, 2018, "한입에 웹 크롤링", 비제이퍼블릭]    
+  (2) 네이버 블로그 : [네이버 검색 API](), [selenium](), [BeautifulSoup]()   
+    - 참고 : https://github.com/xotrs/naver-blog-crawler, http://www.donsdev.me/devlogs/27
+    
 ### 이슈 사항
 - 네이버 블로그 검색 API가 중복 데이터를 불러오는 등의 문제가 있었고, selenium, BeautifulSoup을 사용하면 html이 보이지 않았다.
 - 따라서 프로젝트에는 구글 맵 리뷰 데이터만 사용했다. 
