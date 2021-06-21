@@ -23,7 +23,7 @@
   
 2. 2012년 이후 데이터 
 
-## 크롤링 플랫폼    
+## 크롤링 
   (1) 구글 맵 리뷰 : [selenium, BeautifulSoup](https://github.com/JeongCheck/Crawling/blob/main/googleMapReview%20.ipynb)     
     - 참고 : http://egloos.zum.com/mcchae/v/11281390, \[김경록서영덕, 2018, "한입에 웹 크롤링", 비제이퍼블릭]    
   (2) 네이버 블로그 : [네이버 검색 API](), [selenium](), [BeautifulSoup]()   
